@@ -37,7 +37,7 @@ We focus on:
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
         <td colspan="1" rowspan="1" align="center">
-            <a href="https://github.com/viberobotics" target="_blank"> Locomotion & control </a>
+            <a href="https://github.com/viberobotics" target="_blank">Robot SDK</a>
         </td>
         <td><a href="https://github.com/viberobotics/vibe_robotics_sdk" target="_blank"> vibe_robotics_sdk</a> <br> Core stack: Sunday A1 Hardware Setup, ZMP-MPC walking, footstep planning, RL policy deployment, MuJoCo simulation, and FTServo hardware support. Raspberry Pi receiver, web controller, and joystick/teleop. </td>
         <td><a href="https://github.com/viberobotics/vibe_robotics_sdk/stargazers" target="_blank"><img alt="Stars" src="https://img.shields.io/github/stars/viberobotics/vibe_robotics_sdk?style=flat-square"/></a></td>
